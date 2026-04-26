@@ -30,4 +30,4 @@ Findings and insights will be updated as the research progresses.
 - Apply machine learning models for prediction
 
 ## Author
-[Your Name]
+[Kishor Kumar]
